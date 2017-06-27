@@ -11,7 +11,7 @@ In such a tournament, after each game the teams are ranked by:
 
 The next game's matchups are based on this ranking. 
 
-The workbook requires macros to be enabled and a version of Excel that supports macros. So, it does not work on mobile devices (smartphones and tablets.)
+The workbook may require macros to be enabled and may require a version of Excel that supports macros. It has been successfully used on several versions of Excel with macros enabled. It does not work on mobile (smartphone and tablet) versions of Excel. 
 
 The goals of the workbook are efficiency (so that bowlers are not left sitting and waiting for interim and final results) and accuracy. 
 
@@ -30,3 +30,9 @@ All this being said, the workbook is **not** intended to be a complete tournamen
 Don't forget to use the **Press to Reorder** button, which puts opposing teams next to each other for each game. 
 
 When assigning rinks for the third game in small tournaments (12 or fewer teams), always look for matchups where the two teams have played on a total of 4 rinks. Then make the other rink assignments.
+
+## Conditions for use
+
+Anyone is free to use, copy, share, and modify the workbook as they see fit, possibly subject to any restrictions Microsoft might put on the use of its intellectual property. 
+
+This workbook is provided "as-is". Use at your own risk. Using the file might require you to have a license 
