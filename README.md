@@ -2,10 +2,6 @@
 
 This easy to use Excel workbook is designed to assist in the record keeping for a two or three game lawn bowling tournament for up to 32 teams as typically organized in Ontario, Canada, and possibly elsewhere. 
 
-## What the workbook does
-
-The goal of the workbook is efficiency (so that bowlers are not left sitting and waiting for interim and final results) and accuracy. 
-
 In such a tournament, after each game the teams are ranked by:
 
 1. Number of wins;
@@ -14,6 +10,10 @@ In such a tournament, after each game the teams are ranked by:
 4. Shots against.
 
 The next game's matchups are based on this ranking. 
+
+The workbook requires macros to be enabled and a version of Excel that supports macros. So, it does not work on mobile devices (smartphones and tablets.)
+
+The goals of the workbook are efficiency (so that bowlers are not left sitting and waiting for interim and final results) and accuracy. 
 
 The workbook assists the drawmaster by warning when an inconsistent set of game scores has been entered, and when a team is assigned the same rink more than once. 
 
