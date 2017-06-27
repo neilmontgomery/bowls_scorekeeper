@@ -1,3 +1,7 @@
+# DOWNLOAD INSTRUCTIONS
+
+[CLICK HERE TO DOWNLOAD](https://github.com/neilmontgomery/bowls_scorekeeper/raw/master/Bowls%20Scorekeeper%20Version%203.141.xlsm)
+
 # Simple Bowls Tournament Scorekeeper
 
 This easy to use Excel workbook is designed to assist in the record keeping for a two or three game lawn bowling tournament for up to 32 teams as typically organized in Ontario, Canada, and possibly elsewhere. 
