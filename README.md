@@ -39,4 +39,4 @@ When assigning rinks for the third game in small tournaments (12 or fewer teams)
 
 Anyone is free to use, copy, share, and modify the workbook as they see fit, possibly subject to any restrictions Microsoft might put on the use of its intellectual property. 
 
-This workbook is provided "as-is". Use at your own risk. Using the file might require you to have a license 
+This workbook is provided "as-is". Use at your own risk. Using the file might require you to have a license to use 3rd party software (such as Microsoft Excel) which is your responsibility.
