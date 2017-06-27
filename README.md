@@ -11,7 +11,7 @@ In such a tournament, after each game the teams are ranked by:
 
 The next game's matchups are based on this ranking. 
 
-The workbook may require macros to be enabled and may require a version of Excel that supports macros. It has been successfully used on several versions of Excel with macros enabled. It does not work on mobile (smartphone and tablet) versions of Excel. 
+The workbook has been successfully used on several versions of Excel with macros enabled. It does not work on mobile (smartphone and tablet) versions of Excel. I don't know if it works under any other circumstances. 
 
 The goals of the workbook are efficiency (so that bowlers are not left sitting and waiting for interim and final results) and accuracy. 
 
