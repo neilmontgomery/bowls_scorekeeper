@@ -1,6 +1,6 @@
 # DOWNLOAD INSTRUCTIONS
 
-[CLICK HERE TO DOWNLOAD](https://github.com/neilmontgomery/bowls_scorekeeper/raw/master/Bowls%20Scorekeeper%20Version%203.141.xlsm)
+[CLICK HERE TO DOWNLOAD](https://github.com/neilmontgomery/bowls_scorekeeper/raw/master/Bowls%20Scorekeeper%20Version%203.141a.xlsm)
 
 # Simple Bowls Tournament Scorekeeper
 
