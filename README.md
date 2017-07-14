@@ -33,7 +33,8 @@ All this being said, the workbook is **not** intended to be a complete tournamen
 
 Don't forget to use the **Press to Reorder** button, which puts opposing teams next to each other for each game. 
 
-When assigning rinks for the third game in small tournaments (12 or fewer teams), always look for matchups where the two teams have played on a total of 4 rinks. Then make the other rink assignments.
+When assigning rinks for the third game in small tournaments (12 or fewer teams), always look for matchups where the two teams have played on a total of 4 rinks. This scorekeeper will gently highlight these games for you. Then make the other rink assignments. 
+
 
 ## Conditions for use
 
