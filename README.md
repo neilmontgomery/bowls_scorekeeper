@@ -1,6 +1,8 @@
 # DOWNLOAD INSTRUCTIONS
 
-[CLICK HERE TO DOWNLOAD](https://github.com/neilmontgomery/bowls_scorekeeper/raw/master/Bowls%20Scorekeeper%20Version%203.141593a.xlsm)
+[CLICK HERE TO DOWNLOAD](https://github.com/neilmontgomery/bowls_scorekeeper/raw/master/Bowls%20Scorekeeper%20Version%203.1415927.xlsm)
+
+I strongly recommend that come back and retrieve the file before each tournament so that you always have the latest version. If you want to share the file with friends, it is usually better to give them a link to this website rather than sharing the file using email or some other method, also to make sure your friends have the latest version.
 
 # Simple Bowls Tournament Scorekeeper
 
@@ -19,7 +21,11 @@ The workbook has been successfully used on several versions of Excel with macros
 
 The goals of the workbook are efficiency (so that bowlers are not left sitting and waiting for interim and final results) and accuracy. 
 
-The workbook assists the drawmaster by warning when an inconsistent set of game scores has been entered, and when a team is assigned the same rink more than once. 
+The workbook assists the drawmaster by warning:
+* when an inconsistent set of game scores has been entered;
+* when a drawn match did not have its extra end score entered;
+* when the same teams have been drawn against each other again;
+* and when a team is assigned the same rink more than once. 
 
 ## What the workbook does *not* do
 
@@ -27,7 +33,7 @@ All this being said, the workbook is **not** intended to be a complete tournamen
 
 1. Rink assignments are still done by the drawmaster and are not done automatically.
 2. Teams could still be tied after the four ranking methods listed above. These ties will have to be broken by the drawmaster using ends won, etc. This situation is not common and only affects small numbers of teams. Entering ends won and lost for all teams just to cover this case is not worth the effort and would make the spreadsheet much larger.
-3. If the number of teams is not a multiple of 4, it is possible that teams could be drawn against each other twice in the same tournament. The drawmaster would need to take action to avoid this outcome.
+3. The scorekeeper warns when the same teams have been drawn against each other a second time, but it is up to the drawmaster to decided how to handle the situation.
 
 ## Hints for drawmasters
 
