@@ -1,3 +1,5 @@
+2022 Update - the scorekeeper still very much works, and its creator is still very much interested in your feedback, suggestions, and corrections. I hope it will see more use as we get back on the greens for 2022!
+
 # DOWNLOAD INSTRUCTIONS
 
 [CLICK HERE TO DOWNLOAD](https://github.com/neilmontgomery/bowls_scorekeeper/raw/master/Bowls%20Scorekeeper%20Version%203.1415927.xlsm)
