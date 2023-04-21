@@ -1,4 +1,4 @@
-2022 Update - the scorekeeper still very much works, and its creator is still very much interested in your feedback, suggestions, and corrections. I hope it will see more use as we get back on the greens for 2022!
+2023 Update - the scorekeeper still very much works, and its creator is still very much interested in your feedback, suggestions, and corrections. 
 
 # DOWNLOAD INSTRUCTIONS
 
