@@ -1,12 +1,22 @@
 2023 Update - the scorekeeper still very much works, and its creator is still very much interested in your feedback, suggestions, and corrections. 
 
-# DOWNLOAD INSTRUCTIONS
+# DOWNLOAD AND INITIAL SETUP INSTRUCTIONS
 
 [CLICK HERE TO DOWNLOAD](https://github.com/neilmontgomery/bowls_scorekeeper/raw/master/Bowls%20Scorekeeper%20Version%203.1415927.xlsm)
 
 I strongly recommend that come back and retrieve the file before each tournament so that you always have the latest version. If you want to share the file with friends, it is usually better to give them a link to this website rather than sharing the file using email or some other method, also to make sure your friends have the latest version.
 
-The file has been successfully used on several versions of Excel with macros enabled. Expect to have to unblock and/or enable macros each time you download the file. It does not work on mobile (smartphone and tablet) or online (Microsoft 365) versions of Excel. I don't know if it works under any other circumstances. 
+The file has been successfully used on several versions of Excel with macros enabled. 
+
+It does not work on mobile (smartphone and tablet) or online (Microsoft 365) versions of Excel. I don't know if it works under any other circumstances. 
+
+### DEALING WITH DEFAULT SECURITY SETTINGS
+
+Your computer will try to help you from being harmed by content you download from the internet, such as Simple Bowls Scorekeeper file.
+
+Depending on your computer's security settings you may need to "Unblock" the file before using it each time you download it, if a red SECURITY RISK notice appears at the top of the screen when you open the file. To unblock the file, right-click on the file and select Properties. At the bottom of the window check the "Unblock" box.
+
+If a yellow SECURITY WARNING appears saying "Macros have been disabled." you should press the "Enable Content" button. You may also need to press an "Enable Editing" button.
 
 # Simple Bowls Tournament Scorekeeper
 
