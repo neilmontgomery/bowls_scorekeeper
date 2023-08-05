@@ -12,7 +12,7 @@ It does not work on mobile (smartphone and tablet) or online (Microsoft 365) ver
 
 ### DEALING WITH DEFAULT SECURITY SETTINGS
 
-Your computer will try to help you from being harmed by content you download from the internet, such as Simple Bowls Scorekeeper file.
+Your computer may try to help you from being harmed by content you download from the internet, such as the Simple Bowls Scorekeeper file.
 
 Depending on your computer's security settings you may need to "Unblock" the file before using it each time you download it, if a red SECURITY RISK notice appears at the top of the screen when you open the file. To unblock the file, right-click on the file and select Properties. At the bottom of the window check the "Unblock" box.
 
@@ -45,7 +45,7 @@ All this being said, the workbook is **not** intended to be a complete tournamen
 
 1. Rink assignments are still done by the drawmaster and are not done automatically.
 2. Teams could still be tied after the four ranking methods listed above. These ties will have to be broken by the drawmaster using ends won, etc. This situation is not common and only affects small numbers of teams. Entering ends won and lost for all teams just to cover this case is not worth the effort and would make the spreadsheet much larger.
-3. The scorekeeper warns when the same teams have been drawn against each other a second time, but it is up to the drawmaster to decided how to handle the situation.
+3. The scorekeeper warns when the same teams have been drawn against each other a second time, but it is up to the drawmaster to decide how to handle the situation.
 
 ## Hints for drawmasters
 
