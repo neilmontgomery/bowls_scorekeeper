@@ -1,4 +1,4 @@
-2023 Update - the scorekeeper still very much works, and its creator is still very much interested in your feedback, suggestions, and corrections. 
+2025 Update - the scorekeeper still very much works, and its creator is still very much interested in your feedback, suggestions, and corrections. 
 
 # DOWNLOAD AND INITIAL SETUP INSTRUCTIONS
 
