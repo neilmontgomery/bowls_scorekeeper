@@ -44,10 +44,12 @@ The workbook assists the drawmaster by warning:
 All this being said, the workbook is **not** intended to be a complete tournament organizer, and does not solve the following problems:
 
 1. Rink assignments are still done by the drawmaster and are not done automatically.
-2. Teams could still be tied after the four ranking methods listed above. These ties will have to be broken by the drawmaster using ends won, etc. This situation is not common and only affects small numbers of teams. Entering ends won and lost for all teams just to cover this case is not worth the effort and would make the spreadsheet much larger.
+2. Teams could still be tied after the four ranking methods listed above. These ties will have to be resolved by the drawmaster using the Conditions of Play for that tournament.
 3. The scorekeeper warns when the same teams have been drawn against each other a second time, but it is up to the drawmaster to decide how to handle the situation.
 
 ## Hints for drawmasters
+
+First time user? Download the [TRAINING](https://github.com/neilmontgomery/bowls_scorekeeper/raw/master/Training.xlsx) spreadsheet.
 
 Don't forget to use the **Press to Reorder** button, which puts opposing teams next to each other for each game.
 
